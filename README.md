@@ -12,7 +12,6 @@
 - **What could be possible results?**  
 - **"Aha" moments (aka "moments of truth")?**  
 
-My team and I chose to scrape mental health subreddits.
 
 ---
 
